@@ -1,19 +1,24 @@
 # Desafio analisis-alura
 ## Descripción:
-Este proyecto es la implementación de una simple pagina web en donde
-el usuario puede realizar el sorteo para un amigo secreto.
+Este proyecto busca resolver mediante el analisis de datos y la construcción de 
+graficos la siguiente pregunta propuesta para este desafio desarrrollado por Alura para su
+curso de data scientist
 
 -----
-## Funcionamiento:
-El usuario debe ingresar primeramente el nombre de los participantes (hasta 12)
-en el sorteo execpto el suyo, luego para determinar cual fue su amigo secreto
-solo debe presionar el boton sortear amigo el cual retornara un nombre, el cual 
-sera eliminado de la lista a la vez que es elegido. Si el usuario quiere determinar
-el amigo secreto para el resto de sus amigos solo debe seguir presionando el boton de 
-sortear amigo hasta que no queden amigos en la lista, en cada click al ultimo amigo 
-eliminado de la lista se le asignara un amigo secreto de los restantes. 
-Si el usuario desea eliminar un nombre de la lista solo debe hacer click
-sobre el.
+## Problema:
+Para este desafio se nos pidio mediante la manipulación de datos obtenidos del siguiente **[repositorio]<https://github.com/alura-es-cursos/challenge1-data-science-latam> y
+la creación de graficos resolver el siguiente desafío: >Durante este desafío, ayudarás al Sr. Juan 
+a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, 
+analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar 
+la tienda menos eficiente y presentar una recomendación final basada en los datos.
+
+----
+## Resolución:
+Mediante el uso de tecnologías como google colab y python junto a librerías como pandas y matplotlib
+se realizao la manipulación de los datos entregados, se confeccionaron los graficos necesarios para
+presentar nuestro analisis y se planteo una respuesta a nuetra problematica. Revisa mi proceso y 
+la soluión que propongo **[aquí]<https://github.com/w4cha/analisis-alura/blob/main/AluraStoreLatam.ipynb>.
+
 
 -----
 
