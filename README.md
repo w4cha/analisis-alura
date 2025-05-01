@@ -17,7 +17,8 @@ Para este desafio se nos pidio mediante la manipulación de datos obtenidos del 
 Mediante el uso de tecnologías como google colab y python junto a librerías como pandas y matplotlib
 se realizao la manipulación de los datos entregados, se confeccionaron los graficos necesarios para
 presentar nuestro analisis y así plantear una respuesta a nuetra problematica. Revisa mi proceso y 
-la soluión que propongo [aquí](https://github.com/w4cha/analisis-alura/blob/main/AluraStoreLatam.ipynb).
+la soluión que propongo [aquí](https://github.com/w4cha/analisis-alura/blob/main/AluraStoreLatam.ipynb) 
+(para ejecutar el codigo debes usar un programa que soprte archivos de extención .ipynb como [google colab](https://colab.research.google.com/)).
 
 
 -----
